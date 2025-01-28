@@ -23,31 +23,9 @@
   background-color: #ffdf00;
 
   overflow: hidden;
-
-  /* background-image: url('/nintendo_bg.png');
-  background-position: center 40%;
-  background-repeat: no-repeat;
-  background-size: 40%;
-
-  @media (max-width: 767px) {
-    background-position: center center;
-  }
-
-  @media (max-width: 600px) {
-    background-position: center 62%;
-  }
-
-  @media (max-width: 420px) {
-    background-position: center 60%;
-    background-size: 50%;
-  } */
 }
 
 .header {
-  /* position: fixed;
-  top: 0;
-  left: 0; */
-
   width: 100vw;
 
   display: flex;
