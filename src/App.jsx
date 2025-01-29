@@ -4,13 +4,9 @@ import './App.css'
 
 function App() {
   return <>
-    {/* <audio loop={true}>
-      <source src="/letsgoriceniggas.m4a" type="audio/mp4" />
-      Your browser does not support the audio element.
-    </audio> */}
     <div className='color-bg' />
     <div className='wrapper'>
-      <header className={'header loaded'}>
+      <header className='header'>
         <a href="https://x.com/DeepCommunizm" target='_blank' className='social-link'>
           X
         </a>
